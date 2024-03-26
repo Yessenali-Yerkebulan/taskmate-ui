@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Taskmate
 ![2024-03-23_16-59-47](https://github.com/Yessenali-Yerkebulan/taskmate-ui/assets/113698340/798cd5d5-5d16-4e8d-845c-fd8b15a256e6)
 
 
